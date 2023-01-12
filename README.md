@@ -8,3 +8,6 @@ enter the following: %appdata%/.minecraft/mods)
 #4 Drag the mod you downloaded into this folder
 #5 Start Minecraft and join Hypixel, then press the grave key (~) while looking at the harp, you may change this bind in
 options/controls, at the bottom.
+
+(!) May be bugged! Please use my other installation in the mean time: https://www.youtube.com/watch?v=bei8kx2PDKc&t=198s
+Have fun getting melody's hair!
